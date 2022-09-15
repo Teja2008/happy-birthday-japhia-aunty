@@ -1,0 +1,15 @@
+body
+{
+    background: linear-gradient(aqua, rgb(0, 255, 0), yellow, pink, orange,white )
+    
+}
+#wish{
+    font-family: 'Ms Madi', cursive;
+   font-size: xx-large;
+}
+#photo{
+border-color: aqua;
+}
+#day{
+    font-family: 'Dancing Script', cursive;
+}
